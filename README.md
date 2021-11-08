@@ -16,7 +16,7 @@ My professional and academic focus is in systems engineering. Human–machine in
 - [Exporting OSM Data into Python Dataframe](http://www.joelotz.com/blog/2021/exporting-osm-data-into-python-dataframe.html)
 - [Importing Garmin 245 Watch GPX File into Openstreetmap as Traces](http://www.joelotz.com/blog/2021/importing-garmin-245-watch-gpx-file-into-openstreetmap-as-traces.html)
 - [Welcome to arbbt, Your OCD Time Tracker](http://www.joelotz.com/blog/2021/welcome-to-arbbt-your-ocd-time-tracker.html)
-- [Removing DRM from Barnes&Nobles .epub Books](http://www.joelotz.com/blog/2021/removing-drm-from-barnesnobles-epub-books.html)
+- [Removing DRM from Barnes&amp;Nobles .epub Books](http://www.joelotz.com/blog/2021/removing-drm-from-barnesnobles-epub-books.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
